@@ -7,4 +7,5 @@ This presentation will use a large sample dataset to answer questions, build pro
 ## Session Information
 
 **Session number/track/title:** 3107 / Data Science / Working Smarter with Excel
+
 **Session scheduling information:** Thu, Aug 06, 2020 (04:15 PM - 05:00 PM) : Palladian Ballroom 
